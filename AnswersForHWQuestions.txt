@@ -1,0 +1,11 @@
+1. What are three conclusions we can make about Kickstarter campaigns given the provided data?
+    a) Projects with small amount of goal money (less than 1000) much more successful (71%), than projects with big amount of goal money. (goal more than 50000 successful 19%)
+    b)Projects launched from January till May much more successful than projects launched later.
+    c) Projects in categories TV, Music and Theater much more successful than publishing and journalism.
+    
+ 2. What are some of the limitations of this dataset?
+ 	Cities where projects launched not shown
+ 
+ 3. What are some other possible tables/graphs that we could create?
+    a) Countries and number of launched projects. 
+    b) Number of backers and average donation. 
